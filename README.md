@@ -43,7 +43,7 @@ Plutocracy is bad! Don't default to ERC20 token voting!!
 ## Quickstart
 
 ```
-git clone https://github.com/Riiz0/foundry-defi-stablecoin-f24.git
+git clone https://github.com/Riiz0/foundry-dao-f24.git
 cd foundry-defi-stablecoin-f23
 forge build
 ```
